@@ -20,5 +20,32 @@ Turning Data into Intelligent Solutions 🚀
 
 
 <p align="center">
-<img src="C:\Users\Admin\Downloads\banner.png"/>
+<img src="banner"/>
 </p>
+
+
+
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 💼 Looking for Data Analyst / AI Engineer opportunities
+- 🌱 Currently working on ML models , ITIL COMPLIANCE , SLA BREACHING 
+- 💻 Building learning Deep Learning & LLMs
+- 📫 Reach me: keerthanabuis03@gmail.com
+- ⚡ Fun Fact: Coffee + Python = Productivity ☕
+
+- <p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,flask,react,tensorflow,pytorch,vscode,git,github"/>
+
+</p>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana-ship-it&show_icons=true&theme=tokyonight"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-ship-it&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-ship-it&layout=compact&theme=tokyonight"/>
